@@ -1,0 +1,9 @@
+{
+    "pg": {
+        "host": "localhost",
+        "port" : 5432,
+        "db" : "cpa",
+        "pass": "@cessoFLFnti",
+        "user": "postgres"
+    } 
+}
